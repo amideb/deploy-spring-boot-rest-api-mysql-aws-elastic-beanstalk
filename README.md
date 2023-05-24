@@ -81,6 +81,7 @@
 
 1.  Review all your configurations and if everything is according to your requirements, click on `Submit`.
 
+<br>
 
 ![Screenshot 2023-05-24 at 11 44 05 PM](https://github.com/amideb/deploy-spring-boot-rest-api-mysql-aws-elastic-beanstalk/assets/57451228/edcf7152-6da0-49a8-aafb-7f8eb621fd37)
 
