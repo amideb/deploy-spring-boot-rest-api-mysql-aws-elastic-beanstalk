@@ -4,9 +4,9 @@
 ## Step 1: Configure Environment
 
 1.  Navigate to the AWS Elastic Beanstalk console at [https://console.aws.amazon.com/elasticbeanstalk/](https://console.aws.amazon.com/elasticbeanstalk/).
-2.  Click on `Create a new environment`.
+2.  Click on `Create application`.
 3.  Select `Web server environment` and click `Select`.
-4.  In the `Environment information` section, type `02-rest-api-mysql` as the environment name.
+4.  In the `Application information` section, type `02-rest-api-mysql` as the application name.
 5.  In the `Platform` section, select `Managed platform` and from the dropdown menus, select `Java`.
 6.  In the `Application code` section, choose `Upload your code`. Click `Choose file` to select the Spring Boot JAR file from your local computer. Set the `Version label` as `02-rest-api-mysql-source`.
 7.  Choose the `Presets` as `Single instance (free tier)`.
